@@ -1,2 +1,2 @@
 # tgnn
-A distributed implementation of a Temporal Graph Neural Netowrk. 
+Preprocessing and Deployment of a Temporal Graph Neural Network for Community Detection in Large Social Networks
